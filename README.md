@@ -1,4 +1,4 @@
 # Opencv Python
 
 
-## Repositório de programas em paython utilizando Opencv
+## Repositório de programas em python utilizando Opencv
